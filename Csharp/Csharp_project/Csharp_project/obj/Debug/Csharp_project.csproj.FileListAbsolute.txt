@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\bin\Debug\Csharp_project.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\bin\Debug\Csharp_project.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\bin\Debug\Csharp_project.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\obj\Debug\Csharp_project.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\obj\Debug\Csharp_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\obj\Debug\Csharp_project.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\obj\Debug\Csharp_project.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Csharp_project\Csharp_project\obj\Debug\Csharp_project.pdb

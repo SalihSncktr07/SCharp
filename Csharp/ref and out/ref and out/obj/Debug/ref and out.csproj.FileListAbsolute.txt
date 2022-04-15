@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\obj\Debug\ref and out.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\obj\Debug\ref and out.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\obj\Debug\ref and out.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\bin\Debug\ref and out.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\bin\Debug\ref and out.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\bin\Debug\ref and out.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\obj\Debug\ref and out.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\ref and out\ref and out\obj\Debug\ref and out.pdb

@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\bin\Debug\Break ve Continue.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\bin\Debug\Break ve Continue.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\bin\Debug\Break ve Continue.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\obj\Debug\Break ve Continue.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\obj\Debug\Break ve Continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\obj\Debug\Break ve Continue.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\obj\Debug\Break ve Continue.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Break ve Continue\Break ve Continue\obj\Debug\Break ve Continue.pdb

@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\obj\Debug\Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Diziler\Diziler\obj\Debug\Diziler.pdb

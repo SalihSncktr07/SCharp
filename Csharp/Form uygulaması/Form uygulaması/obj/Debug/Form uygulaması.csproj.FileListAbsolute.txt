@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\bin\Debug\Form uygulaması.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\bin\Debug\Form uygulaması.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\bin\Debug\Form uygulaması.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form_uygulaması.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form_uygulaması.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Form uygulaması\Form uygulaması\obj\Debug\Form uygulaması.pdb

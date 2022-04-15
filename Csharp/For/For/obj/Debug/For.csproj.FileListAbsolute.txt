@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\bin\Debug\For.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\bin\Debug\For.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\bin\Debug\For.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\obj\Debug\For.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\obj\Debug\For.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\For\For\obj\Debug\For.pdb

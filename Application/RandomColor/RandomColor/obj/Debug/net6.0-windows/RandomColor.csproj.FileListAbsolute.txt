@@ -1,0 +1,7 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.AssemblyInfoInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.AssemblyInfo.cs
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\RandomColor\RandomColor\obj\Debug\net6.0-windows\RandomColor.csproj.CoreCompileInputs.cache

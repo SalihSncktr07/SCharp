@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Foreach\Foreach\obj\Debug\Foreach.pdb

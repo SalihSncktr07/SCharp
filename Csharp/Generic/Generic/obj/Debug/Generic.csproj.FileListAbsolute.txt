@@ -1,0 +1,3 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Generic\Generic\obj\Debug\Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache

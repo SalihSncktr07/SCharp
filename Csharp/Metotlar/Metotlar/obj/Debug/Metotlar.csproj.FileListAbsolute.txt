@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

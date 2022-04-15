@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\bin\Debug\CashierApp.BackEnd.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\bin\Debug\CashierApp.BackEnd.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\bin\Debug\CashierApp.BackEnd.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.Desktop.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.BackEnd.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.BackEnd.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.Desktop.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.BackEnd.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\CashierApp.BackEnd\obj\Debug\CashierApp.BackEnd.pdb

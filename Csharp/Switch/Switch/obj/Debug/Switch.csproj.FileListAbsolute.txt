@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\bin\Debug\Switch.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\bin\Debug\Switch.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\bin\Debug\Switch.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\obj\Debug\Switch.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\obj\Debug\Switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\obj\Debug\Switch.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Switch\Switch\obj\Debug\Switch.pdb

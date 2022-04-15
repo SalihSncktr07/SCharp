@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8efce8cb-ad1d-4ebd-adbb-f1802d29ed67": {
+      "ProjectGuid": "8efce8cb-ad1d-4ebd-adbb-f1802d29ed67",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 0
+    },
+    "a6b5b2cf-ed54-40a9-9737-b9e432227e85": {
+      "ProjectGuid": "a6b5b2cf-ed54-40a9-9737-b9e432227e85",
+      "DisplayName": "NetworkTransfer",
+      "ColorIndex": 1
+    },
+    "8b85e3b0-a398-4ae3-ab55-65e430261862": {
+      "ProjectGuid": "8b85e3b0-a398-4ae3-ab55-65e430261862",
+      "DisplayName": "CashierApp.Desktop",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

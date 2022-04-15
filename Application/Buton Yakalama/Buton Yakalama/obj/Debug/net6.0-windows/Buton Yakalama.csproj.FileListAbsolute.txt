@@ -1,0 +1,17 @@
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\bin\Debug\net6.0-windows\Buton Yakalama.exe
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\bin\Debug\net6.0-windows\Buton Yakalama.deps.json
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\bin\Debug\net6.0-windows\Buton Yakalama.runtimeconfig.json
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\bin\Debug\net6.0-windows\Buton Yakalama.dll
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\bin\Debug\net6.0-windows\Buton Yakalama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton_Yakalama.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.AssemblyInfoInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.AssemblyInfo.cs
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.dll
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\refint\Buton Yakalama.dll
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.pdb
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\Buton Yakalama.genruntimeconfig.cache
+C:\Users\salih\OneDrive\Masaüstü\Buton Yakalama\Buton Yakalama\obj\Debug\net6.0-windows\ref\Buton Yakalama.dll

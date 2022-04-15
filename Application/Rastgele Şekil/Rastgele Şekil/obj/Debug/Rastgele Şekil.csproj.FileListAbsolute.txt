@@ -1,0 +1,6 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele Şekil.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele Şekil.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele_Şekil.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele_Şekil.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele Şekil.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Rastgele Şekil\Rastgele Şekil\obj\Debug\Rastgele Şekil.csproj.CoreCompileInputs.cache

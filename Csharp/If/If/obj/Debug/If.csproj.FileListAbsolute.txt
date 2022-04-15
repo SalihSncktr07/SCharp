@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\obj\Debug\If.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\obj\Debug\If.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\bin\Debug\If.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\bin\Debug\If.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\bin\Debug\If.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\obj\Debug\If.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\If\If\obj\Debug\If.pdb

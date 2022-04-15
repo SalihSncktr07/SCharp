@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\bin\Debug\Nesneler.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\bin\Debug\Nesneler.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\bin\Debug\Nesneler.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\obj\Debug\Nesneler.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\obj\Debug\Nesneler.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\obj\Debug\Nesneler.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\obj\Debug\Nesneler.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\Nesneler\Nesneler\obj\Debug\Nesneler.pdb

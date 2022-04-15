@@ -1,0 +1,11 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\bin\Debug\Sesli harf bulma.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\bin\Debug\Sesli harf bulma.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\bin\Debug\Sesli harf bulma.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli_harf_bulma.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli_harf_bulma.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Application\Sesli harf bulma\Sesli harf bulma\obj\Debug\Sesli harf bulma.pdb

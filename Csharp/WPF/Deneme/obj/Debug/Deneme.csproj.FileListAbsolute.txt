@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\bin\Debug\Deneme.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\bin\Debug\Deneme.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\obj\Debug\Deneme.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\WPF\Deneme\obj\Debug\Deneme.pdb

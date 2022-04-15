@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\bin\Debug\@enum.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\bin\Debug\@enum.pdb
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\obj\Debug\@enum.exe
+C:\Users\salih\OneDrive\Masaüstü\C#\Csharp\enum\enum\obj\Debug\@enum.pdb
